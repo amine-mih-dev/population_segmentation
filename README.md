@@ -29,3 +29,5 @@ It should be noted that while there are precise guidelines on how i should handl
   - Clustering is Appled to the General Population using sklearns `KMeans` where we try different cluster numbers from 1 to max 30 and select the optimal number of clusters using the elbow method (used `kneed`'s `KneeLocator`)
   - now we apply everything again but to the customer data (everything above was done on the general population data)
   - we compared customer data and demographic data clusters to find key defferences between the most overrepresented segment and the most underrepresented segment.
+
+data is un-available due to privacy agreement.
